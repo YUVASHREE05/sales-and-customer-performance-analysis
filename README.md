@@ -51,8 +51,8 @@ Includes Orders, Customers, Products, Sales, Profit, and Quantity data across mu
 
 ## 🖼️ Dashboard Preview  
 
-[Sales Dashboard]()  
-[Customer Dashboard]()  
+[Sales Dashboard](https://github.com/YUVASHREE05/sales-and-customer-performance-analysis/blob/main/sales%20dashboard.png)  
+[Customer Dashboard](https://github.com/YUVASHREE05/sales-and-customer-performance-analysis/blob/main/customer%20dashboard.png)  
  
 ---
 
