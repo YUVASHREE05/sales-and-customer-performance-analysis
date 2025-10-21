@@ -1,72 +1,73 @@
+# 📊 Tableau Dashboard for Sales and Customer Performance Analysis  
 
-📊 Tableau Dashboard for Sales and Customer Performance Analysis
-🧩 Overview
+## 🧩 Overview  
+This project presents an **interactive Tableau dashboard** built to analyze **Sales, Profit, and Customer performance**.  
+It provides **key KPIs**, **Year-over-Year (YoY) growth insights**, and visual analytics for better decision-making and business strategy.  
 
-This project showcases an interactive Tableau dashboard built to analyze Sales, Profit, and Customer performance.
-It includes key KPIs, Year-over-Year (YoY) growth analysis, and visual insights for better decision-making and business strategy.
+---
 
-🎯 Objectives
+## 🎯 Objectives  
+- Track and visualize key business metrics such as **Total Sales**, **Profit**, **Orders**, and **Customers**.  
+- Perform **YoY growth analysis** to measure business performance over time.  
+- Identify **top-performing customers**, **profitable subcategories**, and **sales trends** across regions and segments.  
 
-Track and visualize key business metrics such as Total Sales, Profit, Orders, and Customers.
+---
 
-Perform YoY growth analysis to identify business performance trends.
+## ⚙️ Features  
+- 📈 **Interactive Dashboards** with filters for Region, Category, and Segment.  
+- 💡 **KPI Cards** showing Total Sales, Profit, and Customer Count.  
+- 🔁 **YoY Growth Calculations** for Sales, Orders, and Customers.  
+- 🧮 **Top 10 Customers by Profit** and **Subcategory Sales Comparison** charts.  
+- 🧠 **Advanced Tableau Calculations** – LOD Expressions, Table Calculations, and Parameters.  
 
-Highlight top customers, profitable subcategories, and sales trends across time.
+---
 
-⚙️ Features
+## 📈 Key Insights  
+- Achieved **+20% Sales Growth YoY** and **+28% Order Growth YoY**.  
+- Identified **high-performing categories** (e.g., Phones, Chairs, Tables).  
+- Highlighted **top customers driving profit**, supporting better retention strategies.  
 
-Interactive Dashboards with filters for Region, Category, and Segment.
+---
 
-KPI Cards showing Total Sales, Profit, and Customer Count.
+## 🧠 Skills & Techniques Used  
+- **Tableau:** Dashboard Design, Data Visualization, KPI Analysis, LOD & Table Calculations, Data Blending, Parameters.  
+- **Data Analysis:** Trend Analysis, Customer Segmentation, YoY Comparison, Performance Tracking.  
+- **Data Preparation:** Cleaned and formatted dataset using Excel before importing into Tableau.  
 
-YoY Growth Calculations for Sales, Orders, and Customers.
+---
 
-Top 10 Customers by Profit and Subcategory Sales Comparison charts.
+## 🧰 Tools & Technologies  
+- 🟦 **Tableau Desktop** – Visualization & Dashboard Creation  
+- 📗 **Microsoft Excel** – Data Cleaning & Preparation  
+- 💻 **GitHub** – Project Documentation & Version Control  
 
-Dynamic Visuals using calculated fields, table, and LOD functions.
+---
 
-📈 Key Insights
+## 📂 Dataset  
+**Source:** Tableau Sample Superstore Dataset  
+Includes Orders, Customers, Products, Sales, Profit, and Quantity data across multiple years.  
 
-Achieved +20% Sales Growth YoY and +28% Order Growth YoY.
+---
 
-Identified high-performing categories (e.g., Phones, Chairs, Tables).
+## 🖼️ Dashboard Preview  
 
-Highlighted top customers driving profit, improving retention strategies.
+[Sales Dashboard]()  
+[Customer Dashboard]()  
+ 
+---
 
-🧠 Skills & Techniques Used
+## 🚀 How to View  
+1. Open **Tableau Desktop** or **Tableau Public**.  
+2. Import the `.twbx` file.  
+3. Explore filters, KPIs, and interactive visualizations.  
 
-Tableau Features: Dashboard Design, LOD Expressions, Table Calculations, Data Blending, Filters, Parameters.
+---
 
-Data Analysis Techniques: KPI Tracking, Trend Analysis, YoY Growth Comparison, Customer Segmentation.
+## 🏁 Results  
+Delivered a **comprehensive performance dashboard** that visualizes sales and customer metrics, enabling **data-driven insights** and tracking **YoY business growth effectively**.  
 
-Data Preparation: Cleaned and formatted dataset using Excel before importing into Tableau.
+---
 
-🧰 Tools & Technologies
+ 
 
-Tableau Desktop – Visualization & Dashboard Creation
-📂 Dataset
-
-Source: Tableau Sample Superstore Dataset
-Contains details of Orders, Customers, Products, Sales, Profit, and Quantity across multiple years.
-
-🖼️ Dashboard Preview
-
- [sales_dashboard](
- [customer_dashboard] (
-
-
-🚀 How to View
-
-Open Tableau Desktop or Tableau Public.
-
-Import the .twbx file.
-
-Explore filters, tooltips, and visual interactions.
-
-🏁 Results
-
-Delivered a comprehensive performance dashboard providing real-time insights, helping track KPIs and evaluate year-over-year business growth effectively.
-
-Microsoft Excel – Data Cleaning & Preprocessing
-
-GitHub – Project Documentation & Version Control
+---
